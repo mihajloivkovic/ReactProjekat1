@@ -1,0 +1,22 @@
+nav{
+    background: #F1DBBF;
+  }
+
+  h3{
+    font-family: cursive;
+    color: black;
+  }
+  .navbar-brand{
+    margin-left: 100px;
+    display: flex;
+    align-items: center;
+    
+  }
+  .navbar-brand img{
+    border-radius: 10px;
+  }
+
+  .nav-item{
+    font-family: cursive;
+  }
+  
